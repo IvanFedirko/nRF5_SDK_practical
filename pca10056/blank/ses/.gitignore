@@ -1,3 +1,4 @@
 *.jlink
 *.emSession
-Output\
+*.emSession
+Output
