@@ -1,0 +1,1 @@
+int di_example(void);
