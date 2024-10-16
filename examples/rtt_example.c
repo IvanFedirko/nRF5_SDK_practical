@@ -2,6 +2,7 @@
 #include <stdint.h>
 #include "nrf_delay.h"
 #include "nrf_gpio.h"
+#include "boards.h"
 
 #define button1 11
 #define led1 13
